@@ -21,7 +21,7 @@ body{
 .links{
   padding: 36px 0;  
   text-align: left;  
-  
+  display: flex;
 }
 
 .links a {
@@ -29,8 +29,8 @@ body{
   font-size: 16px;
   line-height: 19px;
   color: #111111;
-  margin-top:0 30px;
   padding: 15px;
+  display: inline;
   
 }
 
